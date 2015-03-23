@@ -1,2 +1,2 @@
-# simpleMob
-open mobile phone dummy
+mobile phone dummy 
+ohw
